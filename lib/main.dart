@@ -98,7 +98,7 @@ class HomeScreen extends StatelessWidget {
       ),
       body: Center(
         child: const Text(
-          'Selecciona una opción del menú',
+          'Selecciona una opción del menú owo',
           style: TextStyle(fontSize: 20),
         ),
       ),
